@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizzaSite/BlazingPizzaSite.csproj",
-      "projectName": "BlazingPizzaSite",
-      "projectPath": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizzaSite/BlazingPizzaSite.csproj",
+      "projectUniqueName": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizza/BlazingPizza.csproj",
+      "projectName": "BlazingPizza",
+      "projectPath": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizza/BlazingPizza.csproj",
       "packagesPath": "/home/michael-mwanza/.nuget/packages/",
-      "outputPath": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizzaSite/obj/",
+      "outputPath": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizza/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/michael-mwanza/.nuget/NuGet/NuGet.Config"

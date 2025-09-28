@@ -1,4 +1,4 @@
-using BlazingPizzaSite.Components;
+using BlazingPizza.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 

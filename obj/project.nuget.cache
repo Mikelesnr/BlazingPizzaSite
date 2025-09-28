@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6bBVjN3n7SvAnq4kzOZKt8EVz6qAoJmN7SUMIRJuuNhLxmZQoIOr3AuU9utT1b4ddUy6/YY7J6SQNVbr8zfQHw==",
+  "dgSpecHash": "/pGda5CaJ7OyBFfwR5/lnupQr0WedUDBKfqI4PSwr19w2Wjmm9/c67p7BdijJUVb5Jkwc76uMzFmduv1V6437g==",
   "success": true,
-  "projectFilePath": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizzaSite/BlazingPizzaSite.csproj",
+  "projectFilePath": "/home/michael-mwanza/Documents/blazor/PizzaBrowser/BlazingPizza/BlazingPizza.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
